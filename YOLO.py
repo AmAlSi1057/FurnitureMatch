@@ -43,3 +43,4 @@ for result in results:
         print(image_features.cpu().numpy())
 
         
+vcvcccvcvc
